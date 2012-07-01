@@ -6,4 +6,5 @@
 sample3
 sample4
 sample5
-sample6: add hooks script
+sample6: add hooks script post-update
+sample7: add hhoks script of post-merge
