@@ -11,3 +11,4 @@ sample7: add hhoks script of post-merge
 sample8: crontab test @mac
 sample9: crontab test @redmine
 sample10: crontab test2 @redmine
+sample11: crontab test3 '2>&1' @redmine
