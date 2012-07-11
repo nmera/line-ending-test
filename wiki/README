@@ -13,6 +13,11 @@ sample9: crontab test @redmine
 sample10: crontab test2 @redmine
 sample11: crontab test3 '2>&1' @redmine
 sample12: ticket DD test
-sample13-2: conflict merge of pull request @no.2
 sample13-1: conflict merge of pull request @no.1
+<<<<<<< HEAD
 sample17:aaaaaaaaa
+=======
+sample13-2: conflict merge of pull request @no.2
+sample14: redmine test TiDD
+sample17
+>>>>>>> 42b793f5cda41a35a4cf901c82a1196b548b45d6
